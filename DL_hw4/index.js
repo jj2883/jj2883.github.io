@@ -8,11 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Out, out, brief candle! Life's but a walking shadow, a poor player that struts and frets his hour upon the stage and then is heard no more: it is a tale told by an idiot, full of sound and fury, signifying nothing.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'It's no use going back to yesterday, because I was a different person then.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'The more I know of the world, the more I am convinced that I shall never see a man whom I can really love.'     
+  'example4':
+      'People, you know, don't always mean exactly, downright, neither more nor less than what they say.'   
 };
 
 function status(statusText) {
